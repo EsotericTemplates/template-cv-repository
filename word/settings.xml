@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<w:settings xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" mc:Ignorable="w14 w15">
+<w:settings xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16du">
     <w:zoom w:percent="100"/>
+    <w:proofState w:spelling="clean" w:grammar="clean"/>
     <w:defaultTabStop w:val="708"/>
     <w:hyphenationZone w:val="425"/>
     <w:characterSpacingControl w:val="doNotCompress"/>
@@ -10,22 +11,33 @@
         <w:compatSetting w:name="enableOpenTypeFeatures" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
         <w:compatSetting w:name="doNotFlipMirrorIndents" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
         <w:compatSetting w:name="differentiateMultirowTableHeaders" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
+        <w:compatSetting w:name="useWord2013TrackBottomHyphenation" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
     </w:compat>
     <w:rsids>
         <w:rsidRoot w:val="00252FB6"/>
+        <w:rsid w:val="00133804"/>
         <w:rsid w:val="00252FB6"/>
         <w:rsid w:val="00371D00"/>
         <w:rsid w:val="00375FA2"/>
         <w:rsid w:val="00380CB2"/>
+        <w:rsid w:val="00390D2C"/>
         <w:rsid w:val="00470A5E"/>
+        <w:rsid w:val="00506081"/>
         <w:rsid w:val="006A6BB0"/>
+        <w:rsid w:val="007411EB"/>
         <w:rsid w:val="007F46DF"/>
         <w:rsid w:val="0080565E"/>
         <w:rsid w:val="00881F53"/>
         <w:rsid w:val="00995178"/>
+        <w:rsid w:val="009F0262"/>
         <w:rsid w:val="00A701C6"/>
+        <w:rsid w:val="00A7354E"/>
+        <w:rsid w:val="00AA6562"/>
+        <w:rsid w:val="00BD0DA4"/>
         <w:rsid w:val="00D71789"/>
         <w:rsid w:val="00D92A28"/>
+        <w:rsid w:val="00EE487C"/>
+        <w:rsid w:val="00F013AD"/>
         <w:rsid w:val="00FB1B1C"/>
     </w:rsids>
     <m:mathPr>
@@ -49,8 +61,9 @@
             <o:idmap v:ext="edit" data="1"/>
         </o:shapelayout>
     </w:shapeDefaults>
-    <w:decimalSymbol w:val=","/>
-    <w:listSeparator w:val=";"/>
+    <w:decimalSymbol w:val="."/>
+    <w:listSeparator w:val=","/>
+    <w14:docId w14:val="06383759"/>
     <w15:chartTrackingRefBased/>
     <w15:docId w15:val="{9A2D4370-64CD-435A-BDF1-42EDDFDE10FC}"/>
 </w:settings>

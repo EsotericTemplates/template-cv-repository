@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<w:styles xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" mc:Ignorable="w14 w15">
+<w:styles xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16du">
     <w:docDefaults>
         <w:rPrDefault>
             <w:rPr>
@@ -15,7 +15,7 @@
             </w:pPr>
         </w:pPrDefault>
     </w:docDefaults>
-    <w:latentStyles w:defLockedState="0" w:defUIPriority="99" w:defSemiHidden="0" w:defUnhideWhenUsed="0" w:defQFormat="0" w:count="371">
+    <w:latentStyles w:defLockedState="0" w:defUIPriority="99" w:defSemiHidden="0" w:defUnhideWhenUsed="0" w:defQFormat="0" w:count="376">
         <w:lsdException w:name="Normal" w:uiPriority="0" w:qFormat="1"/>
         <w:lsdException w:name="heading 1" w:uiPriority="9" w:qFormat="1"/>
         <w:lsdException w:name="heading 2" w:semiHidden="1" w:uiPriority="9" w:unhideWhenUsed="1" w:qFormat="1"/>
@@ -387,16 +387,24 @@
         <w:lsdException w:name="List Table 5 Dark Accent 6" w:uiPriority="50"/>
         <w:lsdException w:name="List Table 6 Colorful Accent 6" w:uiPriority="51"/>
         <w:lsdException w:name="List Table 7 Colorful Accent 6" w:uiPriority="52"/>
+        <w:lsdException w:name="Mention" w:semiHidden="1" w:unhideWhenUsed="1"/>
+        <w:lsdException w:name="Smart Hyperlink" w:semiHidden="1" w:unhideWhenUsed="1"/>
+        <w:lsdException w:name="Hashtag" w:semiHidden="1" w:unhideWhenUsed="1"/>
+        <w:lsdException w:name="Unresolved Mention" w:semiHidden="1" w:unhideWhenUsed="1"/>
+        <w:lsdException w:name="Smart Link" w:semiHidden="1" w:unhideWhenUsed="1"/>
     </w:latentStyles>
-    <w:style w:type="paragraph" w:default="1" w:styleId="Normalny">
+    <w:style w:type="paragraph" w:default="1" w:styleId="Normal">
         <w:name w:val="Normal"/>
         <w:qFormat/>
+        <w:rPr>
+            <w:lang w:val="en-GB"/>
+        </w:rPr>
     </w:style>
-    <w:style w:type="paragraph" w:styleId="Nagwek1">
+    <w:style w:type="paragraph" w:styleId="Heading1">
         <w:name w:val="heading 1"/>
-        <w:basedOn w:val="Normalny"/>
-        <w:next w:val="Normalny"/>
-        <w:link w:val="Nagwek1Znak"/>
+        <w:basedOn w:val="Normal"/>
+        <w:next w:val="Normal"/>
+        <w:link w:val="Heading1Char"/>
         <w:uiPriority w:val="9"/>
         <w:qFormat/>
         <w:rsid w:val="00371D00"/>
@@ -413,12 +421,12 @@
             <w:szCs w:val="32"/>
         </w:rPr>
     </w:style>
-    <w:style w:type="paragraph" w:styleId="Nagwek2">
+    <w:style w:type="paragraph" w:styleId="Heading2">
         <w:name w:val="heading 2"/>
         <w:aliases w:val="NewStyleResumeTop"/>
-        <w:basedOn w:val="Normalny"/>
-        <w:next w:val="Normalny"/>
-        <w:link w:val="Nagwek2Znak"/>
+        <w:basedOn w:val="Normal"/>
+        <w:next w:val="Normal"/>
+        <w:link w:val="Heading2Char"/>
         <w:uiPriority w:val="9"/>
         <w:unhideWhenUsed/>
         <w:qFormat/>
@@ -439,13 +447,13 @@
             <w:szCs w:val="26"/>
         </w:rPr>
     </w:style>
-    <w:style w:type="character" w:default="1" w:styleId="Domylnaczcionkaakapitu">
+    <w:style w:type="character" w:default="1" w:styleId="DefaultParagraphFont">
         <w:name w:val="Default Paragraph Font"/>
         <w:uiPriority w:val="1"/>
         <w:semiHidden/>
         <w:unhideWhenUsed/>
     </w:style>
-    <w:style w:type="table" w:default="1" w:styleId="Standardowy">
+    <w:style w:type="table" w:default="1" w:styleId="TableNormal">
         <w:name w:val="Normal Table"/>
         <w:uiPriority w:val="99"/>
         <w:semiHidden/>
@@ -460,16 +468,16 @@
             </w:tblCellMar>
         </w:tblPr>
     </w:style>
-    <w:style w:type="numbering" w:default="1" w:styleId="Bezlisty">
+    <w:style w:type="numbering" w:default="1" w:styleId="NoList">
         <w:name w:val="No List"/>
         <w:uiPriority w:val="99"/>
         <w:semiHidden/>
         <w:unhideWhenUsed/>
     </w:style>
-    <w:style w:type="character" w:customStyle="1" w:styleId="Nagwek1Znak">
-        <w:name w:val="Nagłówek 1 Znak"/>
-        <w:basedOn w:val="Domylnaczcionkaakapitu"/>
-        <w:link w:val="Nagwek1"/>
+    <w:style w:type="character" w:customStyle="1" w:styleId="Heading1Char">
+        <w:name w:val="Heading 1 Char"/>
+        <w:basedOn w:val="DefaultParagraphFont"/>
+        <w:link w:val="Heading1"/>
         <w:uiPriority w:val="9"/>
         <w:rsid w:val="00371D00"/>
         <w:rPr>
@@ -479,11 +487,11 @@
             <w:szCs w:val="32"/>
         </w:rPr>
     </w:style>
-    <w:style w:type="character" w:customStyle="1" w:styleId="Nagwek2Znak">
-        <w:name w:val="Nagłówek 2 Znak"/>
-        <w:aliases w:val="NewStyleResumeTop Znak"/>
-        <w:basedOn w:val="Domylnaczcionkaakapitu"/>
-        <w:link w:val="Nagwek2"/>
+    <w:style w:type="character" w:customStyle="1" w:styleId="Heading2Char">
+        <w:name w:val="Heading 2 Char"/>
+        <w:aliases w:val="NewStyleResumeTop Char"/>
+        <w:basedOn w:val="DefaultParagraphFont"/>
+        <w:link w:val="Heading2"/>
         <w:uiPriority w:val="9"/>
         <w:rsid w:val="00371D00"/>
         <w:rPr>
@@ -495,7 +503,7 @@
     </w:style>
     <w:style w:type="paragraph" w:customStyle="1" w:styleId="Styl1">
         <w:name w:val="Styl1"/>
-        <w:basedOn w:val="Nagwek1"/>
+        <w:basedOn w:val="Heading1"/>
         <w:link w:val="Styl1Znak"/>
         <w:qFormat/>
         <w:rsid w:val="00D71789"/>
@@ -513,7 +521,7 @@
     </w:style>
     <w:style w:type="character" w:customStyle="1" w:styleId="Styl1Znak">
         <w:name w:val="Styl1 Znak"/>
-        <w:basedOn w:val="Nagwek1Znak"/>
+        <w:basedOn w:val="Heading1Char"/>
         <w:link w:val="Styl1"/>
         <w:rsid w:val="00D71789"/>
         <w:rPr>
@@ -523,7 +531,7 @@
             <w:szCs w:val="40"/>
         </w:rPr>
     </w:style>
-    <w:style w:type="paragraph" w:styleId="Bezodstpw">
+    <w:style w:type="paragraph" w:styleId="NoSpacing">
         <w:name w:val="No Spacing"/>
         <w:uiPriority w:val="1"/>
         <w:qFormat/>
@@ -537,9 +545,9 @@
             <w:szCs w:val="21"/>
         </w:rPr>
     </w:style>
-    <w:style w:type="table" w:styleId="Tabela-Siatka">
+    <w:style w:type="table" w:styleId="TableGrid">
         <w:name w:val="Table Grid"/>
-        <w:basedOn w:val="Standardowy"/>
+        <w:basedOn w:val="TableNormal"/>
         <w:uiPriority w:val="39"/>
         <w:rsid w:val="00380CB2"/>
         <w:pPr>
@@ -561,9 +569,9 @@
             </w:tblBorders>
         </w:tblPr>
     </w:style>
-    <w:style w:type="paragraph" w:styleId="Akapitzlist">
+    <w:style w:type="paragraph" w:styleId="ListParagraph">
         <w:name w:val="List Paragraph"/>
-        <w:basedOn w:val="Normalny"/>
+        <w:basedOn w:val="Normal"/>
         <w:uiPriority w:val="34"/>
         <w:qFormat/>
         <w:rsid w:val="00380CB2"/>
@@ -578,9 +586,9 @@
             <w:szCs w:val="21"/>
         </w:rPr>
     </w:style>
-    <w:style w:type="character" w:styleId="Hipercze">
+    <w:style w:type="character" w:styleId="Hyperlink">
         <w:name w:val="Hyperlink"/>
-        <w:basedOn w:val="Domylnaczcionkaakapitu"/>
+        <w:basedOn w:val="DefaultParagraphFont"/>
         <w:uiPriority w:val="99"/>
         <w:unhideWhenUsed/>
         <w:rsid w:val="00380CB2"/>
