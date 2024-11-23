@@ -1,38 +1,2000 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16du wp14">
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 wp14">
     <w:body>
-        <w:p w14:paraId="0FA8482B" w14:textId="003ADC90" w:rsidR="005F530B" w:rsidRDefault="00B27E34" w:rsidP="00B27E34">
-            <w:pPr>
-                <w:pStyle w:val="Title"/>
-            </w:pPr>
+        <w:p w:rsidR="00D92A28" w:rsidRDefault="006A6BB0">
+            <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="0"/>
             <w:r>
-                <w:t>Title</w:t>
+                <w:rPr>
+                    <w:noProof/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251668480" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>-457200</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>9982200</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="7591425" cy="285750"/>
+                                <wp:effectExtent l="0" t="0" r="9525" b="0"/>
+                                <wp:wrapNone/>
+                                <wp:docPr id="2" name="Prostokąt 2"/>
+                                <wp:cNvGraphicFramePr/>
+                                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr/>
+                                            <wps:spPr>
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0"/>
+                                                    <a:ext cx="7591425" cy="285750"/>
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst/>
+                                                </a:prstGeom>
+                                                <a:solidFill>
+                                                    <a:schemeClr val="accent1"/>
+                                                </a:solidFill>
+                                                <a:ln>
+                                                    <a:noFill/>
+                                                </a:ln>
+                                            </wps:spPr>
+                                            <wps:style>
+                                                <a:lnRef idx="2">
+                                                    <a:schemeClr val="accent1">
+                                                        <a:shade val="50000"/>
+                                                    </a:schemeClr>
+                                                </a:lnRef>
+                                                <a:fillRef idx="1">
+                                                    <a:schemeClr val="accent1"/>
+                                                </a:fillRef>
+                                                <a:effectRef idx="0">
+                                                    <a:schemeClr val="accent1"/>
+                                                </a:effectRef>
+                                                <a:fontRef idx="minor">
+                                                    <a:schemeClr val="lt1"/>
+                                                </a:fontRef>
+                                            </wps:style>
+                                            <wps:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                                                <a:prstTxWarp prst="textNoShape">
+                                                    <a:avLst/>
+                                                </a:prstTxWarp>
+                                                <a:noAutofit/>
+                                            </wps:bodyPr>
+                                        </wps:wsp>
+                                    </a:graphicData>
+                                </a:graphic>
+                                <wp14:sizeRelH relativeFrom="margin">
+                                    <wp14:pctWidth>0</wp14:pctWidth>
+                                </wp14:sizeRelH>
+                                <wp14:sizeRelV relativeFrom="margin">
+                                    <wp14:pctHeight>0</wp14:pctHeight>
+                                </wp14:sizeRelV>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:rect w14:anchorId="688E824B" id="Prostokąt 2" o:spid="_x0000_s1026" style="position:absolute;margin-left:-36pt;margin-top:786pt;width:597.75pt;height:22.5pt;z-index:251668480;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQBcsjP6jgIAAIkFAAAOAAAAZHJzL2Uyb0RvYy54bWysVM1uEzEQviPxDpbvdJNVQ0vUTRWlKkKq&#xA;2ogW9ex67ayF7TG2k02482Y8GGPvT0tbgYTIwfF4/r/9Zs7O90aTnfBBga3o9GhCibAcamU3Ff1y&#xA;d/nulJIQma2ZBisqehCBni/evjlr3VyU0ICuhScYxIZ56yraxOjmRRF4IwwLR+CERaUEb1hE0W+K&#xA;2rMWoxtdlJPJ+6IFXzsPXISArxedki5yfCkFjzdSBhGJrijWFvPp8/mQzmJxxuYbz1yjeF8G+4cq&#xA;DFMWk46hLlhkZOvVi1BGcQ8BZDziYAqQUnGRe8BuppNn3dw2zIncC4IT3AhT+H9h+fVu7YmqK1pS&#xA;YpnBT7TGAiN8/fkjkjLh07owR7Nbt/a9FPCamt1Lb9I/tkH2GdPDiKnYR8Lx8WT2YXpczijhqCtP&#xA;ZyezDHrx6O18iB8FGJIuFfX4zTKUbHcVImZE08EkJQugVX2ptM5C4olYaU92DL8w41zYOE1Vo9dv&#xA;ltomewvJs1OnlyI117WTb/GgRbLT9rOQCAs2UOZiMiFfJso1NKwWXf7ZBH9D9qG0XEsOmKwl5h9j&#xA;T/8Uu6uyt0+uIvN5dJ783Xn0yJnBxtHZKAv+tQB6hE929gNIHTQJpQeoD0gaD900BccvFX66Kxbi&#xA;mnkcHxw0XAnxBg+poa0o9DdKGvDfX3tP9shq1FLS4jhWNHzbMi8o0Z8s8h1JdJzmNwvHs5MSBf9U&#xA;8/BUY7dmBciHKS4fx/M12Uc9XKUHc4+bY5myoopZjrkryqMfhFXs1gTuHi6Wy2yGM+tYvLK3jqfg&#xA;CdVEzbv9PfOu529E5l/DMLps/ozGnW3ytLDcRpAqc/wR1x5vnPdMnH43pYXyVM5Wjxt08QsAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAD6I+MXiAAAADgEAAA8AAABkcnMvZG93bnJldi54bWxMj81OwzAQhO9I&#xA;vIO1SNxa50dtUIhTVZV6QQiJQA/c3GSJA/E6it008PRsucBtVjOa/abYzLYXE46+c6QgXkYgkGrX&#xA;dNQqeH3ZL+5A+KCp0b0jVPCFHjbl9VWh88ad6RmnKrSCS8jnWoEJYcil9LVBq/3SDUjsvbvR6sDn&#xA;2Mpm1Gcut71Momgtre6IPxg94M5g/VmdrIKHjyytzLSdvtMnPBh3eHzb77xStzfz9h5EwDn8heGC&#xA;z+hQMtPRnajxolewyBLeEthY/apLJE7SFYgjq3WcRSDLQv6fUf4AAAD//wMAUEsBAi0AFAAGAAgA&#xA;AAAhALaDOJL+AAAA4QEAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwEC&#xA;LQAUAAYACAAAACEAOP0h/9YAAACUAQAACwAAAAAAAAAAAAAAAAAvAQAAX3JlbHMvLnJlbHNQSwEC&#xA;LQAUAAYACAAAACEAXLIz+o4CAACJBQAADgAAAAAAAAAAAAAAAAAuAgAAZHJzL2Uyb0RvYy54bWxQ&#xA;SwECLQAUAAYACAAAACEAPoj4xeIAAAAOAQAADwAAAAAAAAAAAAAAAADoBAAAZHJzL2Rvd25yZXYu&#xA;eG1sUEsFBgAAAAAEAAQA8wAAAPcFAAAAAA==&#xA;" fillcolor="#5b9bd5 [3204]" stroked="f" strokeweight="1pt"/>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:noProof/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251659264" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>-457200</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>-514350</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="7591425" cy="2047875"/>
+                                <wp:effectExtent l="0" t="0" r="9525" b="9525"/>
+                                <wp:wrapNone/>
+                                <wp:docPr id="1" name="Prostokąt 1"/>
+                                <wp:cNvGraphicFramePr/>
+                                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr/>
+                                            <wps:spPr>
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0"/>
+                                                    <a:ext cx="7591425" cy="2047875"/>
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst/>
+                                                </a:prstGeom>
+                                                <a:solidFill>
+                                                    <a:schemeClr val="accent1"/>
+                                                </a:solidFill>
+                                                <a:ln>
+                                                    <a:noFill/>
+                                                </a:ln>
+                                            </wps:spPr>
+                                            <wps:style>
+                                                <a:lnRef idx="2">
+                                                    <a:schemeClr val="accent1">
+                                                        <a:shade val="50000"/>
+                                                    </a:schemeClr>
+                                                </a:lnRef>
+                                                <a:fillRef idx="1">
+                                                    <a:schemeClr val="accent1"/>
+                                                </a:fillRef>
+                                                <a:effectRef idx="0">
+                                                    <a:schemeClr val="accent1"/>
+                                                </a:effectRef>
+                                                <a:fontRef idx="minor">
+                                                    <a:schemeClr val="lt1"/>
+                                                </a:fontRef>
+                                            </wps:style>
+                                            <wps:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                                                <a:prstTxWarp prst="textNoShape">
+                                                    <a:avLst/>
+                                                </a:prstTxWarp>
+                                                <a:noAutofit/>
+                                            </wps:bodyPr>
+                                        </wps:wsp>
+                                    </a:graphicData>
+                                </a:graphic>
+                                <wp14:sizeRelH relativeFrom="margin">
+                                    <wp14:pctWidth>0</wp14:pctWidth>
+                                </wp14:sizeRelH>
+                                <wp14:sizeRelV relativeFrom="margin">
+                                    <wp14:pctHeight>0</wp14:pctHeight>
+                                </wp14:sizeRelV>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:rect w14:anchorId="62E8AEB0" id="Prostokąt 1" o:spid="_x0000_s1026" style="position:absolute;margin-left:-36pt;margin-top:-40.5pt;width:597.75pt;height:161.25pt;z-index:251659264;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin;v-text-anchor:middle" o:gfxdata="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&#xA;eG1sUEsFBgAAAAAEAAQA8wAAAPcFAAAAAA==&#xA;" fillcolor="#5b9bd5 [3204]" stroked="f" strokeweight="1pt"/>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+            <w:r w:rsidR="00D71789">
+                <w:rPr>
+                    <w:noProof/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="45720" distB="45720" distL="114300" distR="114300" simplePos="0" relativeHeight="251665408" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>3810000</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>47625</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="3219450" cy="1485900"/>
+                                <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                                <wp:wrapSquare wrapText="bothSides"/>
+                                <wp:docPr id="4" name="Pole tekstowe 2"/>
+                                <wp:cNvGraphicFramePr>
+                                    <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                </wp:cNvGraphicFramePr>
+                                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr txBox="1">
+                                                <a:spLocks noChangeArrowheads="1"/>
+                                            </wps:cNvSpPr>
+                                            <wps:spPr bwMode="auto">
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0"/>
+                                                    <a:ext cx="3219450" cy="1485900"/>
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst/>
+                                                </a:prstGeom>
+                                                <a:noFill/>
+                                                <a:ln w="9525">
+                                                    <a:noFill/>
+                                                    <a:miter lim="800000"/>
+                                                    <a:headEnd/>
+                                                    <a:tailEnd/>
+                                                </a:ln>
+                                            </wps:spPr>
+                                            <wps:txbx>
+                                                <w:txbxContent>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                                <w:b/>
+                                                                <w:bCs/>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D71789">
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                                <w:b/>
+                                                                <w:bCs/>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Address:</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D71789">
+                                                            <w:rPr>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>177 Great Portland Street, London W5W 6PQ</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                                <w:b/>
+                                                                <w:bCs/>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D71789">
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                                <w:b/>
+                                                                <w:bCs/>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Phone:</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D71789">
+                                                            <w:rPr>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t xml:space="preserve">+44 (0)20 7666 8555 </w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                                <w:b/>
+                                                                <w:bCs/>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D71789">
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                                <w:b/>
+                                                                <w:bCs/>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Email:</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D71789">
+                                                            <w:rPr>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>christoper.m</w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidR="00D71789">
+                                                            <w:rPr>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>organ</w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00D71789">
+                                                            <w:rPr>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>@gmail.com</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                </w:txbxContent>
+                                            </wps:txbx>
+                                            <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0">
+                                                <a:noAutofit/>
+                                            </wps:bodyPr>
+                                        </wps:wsp>
+                                    </a:graphicData>
+                                </a:graphic>
+                                <wp14:sizeRelH relativeFrom="margin">
+                                    <wp14:pctWidth>0</wp14:pctWidth>
+                                </wp14:sizeRelH>
+                                <wp14:sizeRelV relativeFrom="margin">
+                                    <wp14:pctHeight>0</wp14:pctHeight>
+                                </wp14:sizeRelV>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+                                <v:stroke joinstyle="miter"/>
+                                <v:path gradientshapeok="t" o:connecttype="rect"/>
+                            </v:shapetype>
+                            <v:shape id="Pole tekstowe 2" o:spid="_x0000_s1026" type="#_x0000_t202" style="position:absolute;margin-left:300pt;margin-top:3.75pt;width:253.5pt;height:117pt;z-index:251665408;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQCMOpPSDwIAAPgDAAAOAAAAZHJzL2Uyb0RvYy54bWysU9uO0zAQfUfiHyy/01xIoY2arpZdFiEt&#xA;sNLCBziO01hre4ztNilfz9jpdit4Q+TBsjMzx3POHG+uJq3IQTgvwTS0WOSUCMOhk2bX0B/f796s&#xA;KPGBmY4pMKKhR+Hp1fb1q81oa1HCAKoTjiCI8fVoGzqEYOss83wQmvkFWGEw2IPTLODR7bLOsRHR&#xA;tcrKPH+XjeA664AL7/Hv7Ryk24Tf94KHb33vRSCqodhbSKtLaxvXbLth9c4xO0h+aoP9QxeaSYOX&#xA;nqFuWWBk7+RfUFpyBx76sOCgM+h7yUXigGyK/A82jwOzInFBcbw9y+T/Hyz/enhwRHYNrSgxTOOI&#xA;HkAJEsSTDzAKUkaJRutrzHy0mBumDzDhqBNdb++BP3li4GZgZieunYNxEKzDFotYmV2Uzjg+grTj&#xA;F+jwLrYPkICm3umoHypCEB1HdTyPR0yBcPz5tizW1RJDHGNFtVqu8zTAjNXP5db58EmAJnHTUIfz&#xA;T/DscO9DbIfVzynxNgN3UqnkAWXI2ND1slymgouIlgEtqqRu6CqP32yayPKj6VJxYFLNe7xAmRPt&#xA;yHTmHKZ2wsSoRQvdEQVwMFsRnw5uBnC/KBnRhg31P/fMCUrUZ4Mirouqir5Nh2r5vsSDu4y0lxFm&#xA;OEI1NFAyb29C8vrM9RrF7mWS4aWTU69or6TO6SlE/16eU9bLg93+BgAA//8DAFBLAwQUAAYACAAA&#xA;ACEAcYckKd4AAAAKAQAADwAAAGRycy9kb3ducmV2LnhtbEyPwW7CMBBE75X6D9Yi9VbsIAI0zQZV&#xA;rXptVVqQuJl4SSLidRQbkv59zakcZ2c18yZfj7YVF+p94xghmSoQxKUzDVcIP9/vjysQPmg2unVM&#xA;CL/kYV3c3+U6M27gL7psQiViCPtMI9QhdJmUvqzJaj91HXH0jq63OkTZV9L0eojhtpUzpRbS6oZj&#xA;Q607eq2pPG3OFmH7cdzv5uqzerNpN7hRSbZPEvFhMr48gwg0hv9nuOJHdCgi08Gd2XjRIiyUilsC&#xA;wjIFcfUTtYyHA8JsnqQgi1zeTij+AAAA//8DAFBLAQItABQABgAIAAAAIQC2gziS/gAAAOEBAAAT&#xA;AAAAAAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhADj9If/W&#xA;AAAAlAEAAAsAAAAAAAAAAAAAAAAALwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAIw6k9IP&#xA;AgAA+AMAAA4AAAAAAAAAAAAAAAAALgIAAGRycy9lMm9Eb2MueG1sUEsBAi0AFAAGAAgAAAAhAHGH&#xA;JCneAAAACgEAAA8AAAAAAAAAAAAAAAAAaQQAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAABAAEAPMA&#xA;AAB0BQAAAAA=&#xA;" filled="f" stroked="f">
+                                <v:textbox>
+                                    <w:txbxContent>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                    <w:b/>
+                                                    <w:bCs/>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D71789">
+                                                <w:rPr>
+                                                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                    <w:b/>
+                                                    <w:bCs/>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Address:</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D71789">
+                                                <w:rPr>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>177 Great Portland Street, London W5W 6PQ</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                    <w:b/>
+                                                    <w:bCs/>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D71789">
+                                                <w:rPr>
+                                                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                    <w:b/>
+                                                    <w:bCs/>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Phone:</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D71789">
+                                                <w:rPr>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t xml:space="preserve">+44 (0)20 7666 8555 </w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                    <w:b/>
+                                                    <w:bCs/>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D71789">
+                                                <w:rPr>
+                                                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                    <w:b/>
+                                                    <w:bCs/>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Email:</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D71789" w:rsidRDefault="00380CB2" w:rsidP="007F46DF">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D71789">
+                                                <w:rPr>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>christoper.m</w:t>
+                                            </w:r>
+                                            <w:r w:rsidR="00D71789">
+                                                <w:rPr>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>organ</w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00D71789">
+                                                <w:rPr>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>@gmail.com</w:t>
+                                            </w:r>
+                                        </w:p>
+                                    </w:txbxContent>
+                                </v:textbox>
+                                <w10:wrap type="square"/>
+                            </v:shape>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+            <w:r w:rsidR="00D71789">
+                <w:rPr>
+                    <w:noProof/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="45720" distB="45720" distL="114300" distR="114300" simplePos="0" relativeHeight="251661312" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>142875</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>0</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="3667125" cy="1438275"/>
+                                <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                                <wp:wrapSquare wrapText="bothSides"/>
+                                <wp:docPr id="217" name="Pole tekstowe 2"/>
+                                <wp:cNvGraphicFramePr>
+                                    <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                </wp:cNvGraphicFramePr>
+                                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr txBox="1">
+                                                <a:spLocks noChangeArrowheads="1"/>
+                                            </wps:cNvSpPr>
+                                            <wps:spPr bwMode="auto">
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0"/>
+                                                    <a:ext cx="3667125" cy="1438275"/>
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst/>
+                                                </a:prstGeom>
+                                                <a:noFill/>
+                                                <a:ln w="44450">
+                                                    <a:noFill/>
+                                                    <a:miter lim="800000"/>
+                                                    <a:headEnd/>
+                                                    <a:tailEnd/>
+                                                </a:ln>
+                                            </wps:spPr>
+                                            <wps:txbx>
+                                                <w:txbxContent>
+                                                    <w:p w:rsidR="00470A5E" w:rsidRPr="00D71789" w:rsidRDefault="00470A5E" w:rsidP="007F46DF">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                                <w:b/>
+                                                                <w:bCs/>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="56"/>
+                                                                <w:szCs w:val="56"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D71789">
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                                <w:b/>
+                                                                <w:bCs/>
+                                                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                                <w:sz w:val="56"/>
+                                                                <w:szCs w:val="56"/>
+                                                            </w:rPr>
+                                                            <w:t>CHRISTOPHER MORGAN</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                </w:txbxContent>
+                                            </wps:txbx>
+                                            <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="0" tIns="0" rIns="91440" bIns="45720" anchor="t" anchorCtr="0">
+                                                <a:noAutofit/>
+                                            </wps:bodyPr>
+                                        </wps:wsp>
+                                    </a:graphicData>
+                                </a:graphic>
+                                <wp14:sizeRelH relativeFrom="margin">
+                                    <wp14:pctWidth>0</wp14:pctWidth>
+                                </wp14:sizeRelH>
+                                <wp14:sizeRelV relativeFrom="margin">
+                                    <wp14:pctHeight>0</wp14:pctHeight>
+                                </wp14:sizeRelV>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:shape id="_x0000_s1027" type="#_x0000_t202" style="position:absolute;margin-left:11.25pt;margin-top:0;width:288.75pt;height:113.25pt;z-index:251661312;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQDwNy9VFAIAAPoDAAAOAAAAZHJzL2Uyb0RvYy54bWysU9tuEzEQfUfiHyy/k710c2GVTVVaipAK&#xA;VCp8gOP1Zq3aHmM72S1fz9ibpBG8IfxgjS9zZs7x8fp61IochPMSTEOLWU6JMBxaaXYN/fH9/t2K&#xA;Eh+YaZkCIxr6Ijy93rx9sx5sLUroQbXCEQQxvh5sQ/sQbJ1lnvdCMz8DKwweduA0C7h0u6x1bEB0&#xA;rbIyzxfZAK61DrjwHnfvpkO6SfhdJ3j41nVeBKIair2FNLs0b+Ocbdas3jlme8mPbbB/6EIzabDo&#xA;GeqOBUb2Tv4FpSV34KELMw46g66TXCQOyKbI/2Dz1DMrEhcUx9uzTP7/wfKvh0dHZNvQslhSYpjG&#xA;R3oEJUgQzz7AIEgZRRqsr/Huk8XbYfwAIz52IuztA/BnTwzc9szsxI1zMPSCtdhkETOzi9QJx0eQ&#xA;7fAFWqzF9gES0Ng5HRVETQii42O9nB9IjIFw3LxaLJZFOaeE41lRXa3K5TzVYPUp3TofPgnQJAYN&#xA;deiABM8ODz7Edlh9uhKrGbiXSiUXKEOGhlZVNc9TxsWRlgFdqqRu6CqPY/JNpPnRtCk7MKmmGCso&#xA;c+QdqU6kw7gdk85JlKjJFtoXFMLBZEr8RBj04H5RMqAhG+p/7pkTlKjPBsWM7j0FLgXvi6rC3W1a&#xA;VPNliQtmOEI0NJzC25DcPnG9QbE7mWR47eDYKhosqXP8DNHBl+t06/XLbn4DAAD//wMAUEsDBBQA&#xA;BgAIAAAAIQAmpa5l3gAAAAcBAAAPAAAAZHJzL2Rvd25yZXYueG1sTI9BS8NAEIXvgv9hGcGLtLsG&#xA;G0rMpkhEBfHSKoq3bXZMgtnZmN006b93etLbzLzHm+/lm9l14oBDaD1puF4qEEiVty3VGt5eHxZr&#xA;ECEasqbzhBqOGGBTnJ/lJrN+oi0edrEWHEIhMxqaGPtMylA16ExY+h6JtS8/OBN5HWppBzNxuOtk&#xA;olQqnWmJPzSmx7LB6ns3Og1y/nway/vHq0mN6fHmpfxJPt6ftb68mO9uQUSc458ZTviMDgUz7f1I&#xA;NohOQ5Ks2KmBC7GaKsXD/nROVyCLXP7nL34BAAD//wMAUEsBAi0AFAAGAAgAAAAhALaDOJL+AAAA&#xA;4QEAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEA&#xA;OP0h/9YAAACUAQAACwAAAAAAAAAAAAAAAAAvAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEA&#xA;8DcvVRQCAAD6AwAADgAAAAAAAAAAAAAAAAAuAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAA&#xA;ACEAJqWuZd4AAAAHAQAADwAAAAAAAAAAAAAAAABuBAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAE&#xA;AAQA8wAAAHkFAAAAAA==&#xA;" filled="f" stroked="f" strokeweight="3.5pt">
+                                <v:textbox inset="0,0">
+                                    <w:txbxContent>
+                                        <w:p w:rsidR="00470A5E" w:rsidRPr="00D71789" w:rsidRDefault="00470A5E" w:rsidP="007F46DF">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                    <w:b/>
+                                                    <w:bCs/>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="56"/>
+                                                    <w:szCs w:val="56"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D71789">
+                                                <w:rPr>
+                                                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                                                    <w:b/>
+                                                    <w:bCs/>
+                                                    <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                                    <w:sz w:val="56"/>
+                                                    <w:szCs w:val="56"/>
+                                                </w:rPr>
+                                                <w:t>CHRISTOPHER MORGAN</w:t>
+                                            </w:r>
+                                        </w:p>
+                                    </w:txbxContent>
+                                </v:textbox>
+                                <w10:wrap type="square"/>
+                            </v:shape>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+            <w:r w:rsidR="00881F53">
+                <w:rPr>
+                    <w:noProof/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="45720" distB="45720" distL="114300" distR="114300" simplePos="0" relativeHeight="251667456" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>85725</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>1457325</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="6600825" cy="8124825"/>
+                                <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                                <wp:wrapSquare wrapText="bothSides"/>
+                                <wp:docPr id="7" name="Pole tekstowe 2"/>
+                                <wp:cNvGraphicFramePr>
+                                    <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                </wp:cNvGraphicFramePr>
+                                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr txBox="1">
+                                                <a:spLocks noChangeArrowheads="1"/>
+                                            </wps:cNvSpPr>
+                                            <wps:spPr bwMode="auto">
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0"/>
+                                                    <a:ext cx="6600825" cy="8124825"/>
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst/>
+                                                </a:prstGeom>
+                                                <a:noFill/>
+                                                <a:ln w="9525">
+                                                    <a:noFill/>
+                                                    <a:miter lim="800000"/>
+                                                    <a:headEnd/>
+                                                    <a:tailEnd/>
+                                                </a:ln>
+                                            </wps:spPr>
+                                            <wps:txbx>
+                                                <w:txbxContent>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="009C2C79" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Styl1"/>
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="009C2C79">
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Summary</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t xml:space="preserve">Senior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP OOP, JavaScript, CSS, MySQL. </w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                            </w:rPr>
+                                                            <w:t>Strong background in project management and customer relations.</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="005A2B91" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Styl1"/>
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="005A2B91">
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Skill Highlights</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:tbl>
+                                                        <w:tblPr>
+                                                            <w:tblStyle w:val="Tabela-Siatka"/>
+                                                            <w:tblW w:w="0" w:type="auto"/>
+                                                            <w:tblBorders>
+                                                                <w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                                <w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                                <w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                                <w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                                <w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                                <w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                            </w:tblBorders>
+                                                            <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+                                                        </w:tblPr>
+                                                        <w:tblGrid>
+                                                            <w:gridCol w:w="4696"/>
+                                                            <w:gridCol w:w="4697"/>
+                                                        </w:tblGrid>
+                                                        <w:tr w:rsidR="00380CB2" w:rsidTr="00370C6F">
+                                                            <w:trPr>
+                                                                <w:trHeight w:val="991"/>
+                                                            </w:trPr>
+                                                            <w:tc>
+                                                                <w:tcPr>
+                                                                    <w:tcW w:w="4696" w:type="dxa"/>
+                                                                </w:tcPr>
+                                                                <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                                    <w:pPr>
+                                                                        <w:pStyle w:val="Akapitzlist"/>
+                                                                        <w:numPr>
+                                                                            <w:ilvl w:val="0"/>
+                                                                            <w:numId w:val="2"/>
+                                                                        </w:numPr>
+                                                                        <w:spacing w:line="240" w:lineRule="auto"/>
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                            <w:lang w:val="en-US"/>
+                                                                        </w:rPr>
+                                                                    </w:pPr>
+                                                                    <w:r w:rsidRPr="00C96AE3">
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                            <w:lang w:val="en-US"/>
+                                                                        </w:rPr>
+                                                                        <w:t>Project management</w:t>
+                                                                    </w:r>
+                                                                </w:p>
+                                                                <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                                    <w:pPr>
+                                                                        <w:pStyle w:val="Akapitzlist"/>
+                                                                        <w:numPr>
+                                                                            <w:ilvl w:val="0"/>
+                                                                            <w:numId w:val="2"/>
+                                                                        </w:numPr>
+                                                                        <w:spacing w:line="240" w:lineRule="auto"/>
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                            <w:lang w:val="en-US"/>
+                                                                        </w:rPr>
+                                                                    </w:pPr>
+                                                                    <w:r w:rsidRPr="00C96AE3">
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                            <w:lang w:val="en-US"/>
+                                                                        </w:rPr>
+                                                                        <w:t>Strong decision maker</w:t>
+                                                                    </w:r>
+                                                                </w:p>
+                                                                <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                                    <w:pPr>
+                                                                        <w:pStyle w:val="Akapitzlist"/>
+                                                                        <w:numPr>
+                                                                            <w:ilvl w:val="0"/>
+                                                                            <w:numId w:val="2"/>
+                                                                        </w:numPr>
+                                                                        <w:spacing w:line="240" w:lineRule="auto"/>
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                            <w:lang w:val="en-US"/>
+                                                                        </w:rPr>
+                                                                    </w:pPr>
+                                                                    <w:r w:rsidRPr="00C96AE3">
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                            <w:lang w:val="en-US"/>
+                                                                        </w:rPr>
+                                                                        <w:t>Complex problem solver</w:t>
+                                                                    </w:r>
+                                                                </w:p>
+                                                            </w:tc>
+                                                            <w:tc>
+                                                                <w:tcPr>
+                                                                    <w:tcW w:w="4697" w:type="dxa"/>
+                                                                </w:tcPr>
+                                                                <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                                    <w:pPr>
+                                                                        <w:pStyle w:val="Akapitzlist"/>
+                                                                        <w:numPr>
+                                                                            <w:ilvl w:val="0"/>
+                                                                            <w:numId w:val="2"/>
+                                                                        </w:numPr>
+                                                                        <w:spacing w:line="240" w:lineRule="auto"/>
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                        </w:rPr>
+                                                                    </w:pPr>
+                                                                    <w:r w:rsidRPr="00C96AE3">
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                        </w:rPr>
+                                                                        <w:t>Creative design</w:t>
+                                                                    </w:r>
+                                                                </w:p>
+                                                                <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                                    <w:pPr>
+                                                                        <w:pStyle w:val="Akapitzlist"/>
+                                                                        <w:numPr>
+                                                                            <w:ilvl w:val="0"/>
+                                                                            <w:numId w:val="2"/>
+                                                                        </w:numPr>
+                                                                        <w:spacing w:line="240" w:lineRule="auto"/>
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                        </w:rPr>
+                                                                    </w:pPr>
+                                                                    <w:r w:rsidRPr="00C96AE3">
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                        </w:rPr>
+                                                                        <w:t>Innovative</w:t>
+                                                                    </w:r>
+                                                                </w:p>
+                                                                <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                                    <w:pPr>
+                                                                        <w:pStyle w:val="Akapitzlist"/>
+                                                                        <w:numPr>
+                                                                            <w:ilvl w:val="0"/>
+                                                                            <w:numId w:val="2"/>
+                                                                        </w:numPr>
+                                                                        <w:spacing w:line="240" w:lineRule="auto"/>
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                        </w:rPr>
+                                                                    </w:pPr>
+                                                                    <w:r w:rsidRPr="00C96AE3">
+                                                                        <w:rPr>
+                                                                            <w:sz w:val="24"/>
+                                                                            <w:szCs w:val="24"/>
+                                                                        </w:rPr>
+                                                                        <w:t>Service-focused</w:t>
+                                                                    </w:r>
+                                                                </w:p>
+                                                            </w:tc>
+                                                        </w:tr>
+                                                    </w:tbl>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Styl1"/>
+                                                            <w:spacing w:before="240"/>
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Experience</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:b/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Web Developer</w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t xml:space="preserve"> - 09/2015 to 05/2019</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:b/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Luna Web Design</w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>, New York</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="1"/>
+                                                            </w:numPr>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="1"/>
+                                                            </w:numPr>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Develop project concepts and maintain optimal workflow.</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="1"/>
+                                                            </w:numPr>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Work with senior developer to manage large, complex design projects for corporate clients.</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="1"/>
+                                                            </w:numPr>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Complete detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code.</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="1"/>
+                                                            </w:numPr>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Carry out quality assurance tests to discover errors and optimize usability.</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Styl1"/>
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Education</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t xml:space="preserve">Bachelor of Science: </w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:b/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t xml:space="preserve">Computer Information Systems </w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>- 2014</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:b/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Columbia University</w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00D11747">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>, NY</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="007F46DF" w:rsidRPr="00D11747" w:rsidRDefault="007F46DF" w:rsidP="007F46DF">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Styl1"/>
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Languages</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="007F46DF" w:rsidRPr="00380CB2" w:rsidRDefault="007F46DF" w:rsidP="007F46DF">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00380CB2">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Spanish – C2</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="007F46DF" w:rsidRPr="007F46DF" w:rsidRDefault="007F46DF" w:rsidP="007F46DF">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00380CB2">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Chinese – A1</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Styl1"/>
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00C62F7C">
+                                                            <w:rPr>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Certifications</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00C62F7C" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00C62F7C">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t xml:space="preserve">PHP Framework (certificate): </w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00C62F7C">
+                                                            <w:rPr>
+                                                                <w:b/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Zend, Codeigniter, Symfony</w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00C62F7C">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>.</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00C62F7C" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Bezodstpw"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00C62F7C">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t xml:space="preserve">Programming Languages: </w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00C62F7C">
+                                                            <w:rPr>
+                                                                <w:b/>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>JavaScript, HTML5, PHP OOP, CSS, SQL, MySQL</w:t>
+                                                        </w:r>
+                                                        <w:r w:rsidRPr="00C62F7C">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>.</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="0080565E" w:rsidRDefault="00380CB2">
+                                                        <w:pPr>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                    </w:p>
+                                                </w:txbxContent>
+                                            </wps:txbx>
+                                            <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0">
+                                                <a:noAutofit/>
+                                            </wps:bodyPr>
+                                        </wps:wsp>
+                                    </a:graphicData>
+                                </a:graphic>
+                                <wp14:sizeRelH relativeFrom="margin">
+                                    <wp14:pctWidth>0</wp14:pctWidth>
+                                </wp14:sizeRelH>
+                                <wp14:sizeRelV relativeFrom="margin">
+                                    <wp14:pctHeight>0</wp14:pctHeight>
+                                </wp14:sizeRelV>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:shape id="_x0000_s1028" type="#_x0000_t202" style="position:absolute;margin-left:6.75pt;margin-top:114.75pt;width:519.75pt;height:639.75pt;z-index:251667456;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQBTgod5DgIAAP8DAAAOAAAAZHJzL2Uyb0RvYy54bWysU8Fu2zAMvQ/YPwi6L3aCJG2NOEXXrsOA&#xA;rivQ7QMYWY6FSqImKbGzrx8lp1nQ3YbpIIgi9cj3SK2uB6PZXvqg0NZ8Oik5k1Zgo+y25j++33+4&#xA;5CxEsA1otLLmBxn49fr9u1XvKjnDDnUjPSMQG6re1byL0VVFEUQnDYQJOmnJ2aI3EMn026Lx0BO6&#xA;0cWsLJdFj75xHoUMgW7vRidfZ/y2lSJ+a9sgI9M1p9pi3n3eN2kv1iuoth5cp8SxDPiHKgwoS0lP&#xA;UHcQge28+gvKKOExYBsnAk2BbauEzByIzbR8w+a5AyczFxInuJNM4f/Bisf9k2eqqfkFZxYMtegJ&#xA;tWRRvoSIvWSzJFHvQkWRz45i4/ARB2p1phvcA4qXwCzedmC38sZ77DsJDZU4TS+Ls6cjTkggm/4r&#xA;NpQLdhEz0NB6k/QjRRihU6sOp/bIITJBl8tlWV7OFpwJ8l1OZ/NkpBxQvT53PsTPEg1Lh5p76n+G&#xA;h/1DiGPoa0jKZvFeaU33UGnL+ppfLQjyjceoSCOqlaGkZVrj0CSWn2yTH0dQejxTLdoeaSemI+c4&#xA;bIYs8knNDTYH0sHjOJH0g+jQof/FWU/TWPPwcwdecqa/WNLyajqfp/HNxnxxMSPDn3s25x6wgqBq&#xA;Hjkbj7cxj/xI7IY0b1VWIzVnrORYMk1Z1vP4I9IYn9s56s+/Xf8GAAD//wMAUEsDBBQABgAIAAAA&#xA;IQDGugNS3gAAAAwBAAAPAAAAZHJzL2Rvd25yZXYueG1sTI/BTsMwEETvSPyDtUjcqE1KUBPiVFUR&#xA;VyoKVOLmxtskIl5HsduEv+/2RG8z2qfZmWI5uU6ccAitJw2PMwUCqfK2pVrD1+fbwwJEiIas6Tyh&#xA;hj8MsCxvbwqTWz/SB562sRYcQiE3GpoY+1zKUDXoTJj5HolvBz84E9kOtbSDGTncdTJR6lk60xJ/&#xA;aEyP6war3+3Rafh+P/zsntSmfnVpP/pJSXKZ1Pr+blq9gIg4xX8YLvW5OpTcae+PZIPo2M9TJjUk&#xA;ScbiAqh0zuv2rFKVKZBlIa9HlGcAAAD//wMAUEsBAi0AFAAGAAgAAAAhALaDOJL+AAAA4QEAABMA&#xA;AAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAOP0h/9YA&#xA;AACUAQAACwAAAAAAAAAAAAAAAAAvAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAU4KHeQ4C&#xA;AAD/AwAADgAAAAAAAAAAAAAAAAAuAgAAZHJzL2Uyb0RvYy54bWxQSwECLQAUAAYACAAAACEAxroD&#xA;Ut4AAAAMAQAADwAAAAAAAAAAAAAAAABoBAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAA&#xA;AHMFAAAAAA==&#xA;" filled="f" stroked="f">
+                                <v:textbox>
+                                    <w:txbxContent>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="009C2C79" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Styl1"/>
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="009C2C79">
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Summary</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t xml:space="preserve">Senior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP OOP, JavaScript, CSS, MySQL. </w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                </w:rPr>
+                                                <w:t>Strong background in project management and customer relations.</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="005A2B91" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Styl1"/>
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="005A2B91">
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Skill Highlights</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:tbl>
+                                            <w:tblPr>
+                                                <w:tblStyle w:val="Tabela-Siatka"/>
+                                                <w:tblW w:w="0" w:type="auto"/>
+                                                <w:tblBorders>
+                                                    <w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                    <w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                    <w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                    <w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                    <w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                    <w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                                </w:tblBorders>
+                                                <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+                                            </w:tblPr>
+                                            <w:tblGrid>
+                                                <w:gridCol w:w="4696"/>
+                                                <w:gridCol w:w="4697"/>
+                                            </w:tblGrid>
+                                            <w:tr w:rsidR="00380CB2" w:rsidTr="00370C6F">
+                                                <w:trPr>
+                                                    <w:trHeight w:val="991"/>
+                                                </w:trPr>
+                                                <w:tc>
+                                                    <w:tcPr>
+                                                        <w:tcW w:w="4696" w:type="dxa"/>
+                                                    </w:tcPr>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Akapitzlist"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="2"/>
+                                                            </w:numPr>
+                                                            <w:spacing w:line="240" w:lineRule="auto"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00C96AE3">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Project management</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Akapitzlist"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="2"/>
+                                                            </w:numPr>
+                                                            <w:spacing w:line="240" w:lineRule="auto"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00C96AE3">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Strong decision maker</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Akapitzlist"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="2"/>
+                                                            </w:numPr>
+                                                            <w:spacing w:line="240" w:lineRule="auto"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00C96AE3">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                                <w:lang w:val="en-US"/>
+                                                            </w:rPr>
+                                                            <w:t>Complex problem solver</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                </w:tc>
+                                                <w:tc>
+                                                    <w:tcPr>
+                                                        <w:tcW w:w="4697" w:type="dxa"/>
+                                                    </w:tcPr>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Akapitzlist"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="2"/>
+                                                            </w:numPr>
+                                                            <w:spacing w:line="240" w:lineRule="auto"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00C96AE3">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                            </w:rPr>
+                                                            <w:t>Creative design</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Akapitzlist"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="2"/>
+                                                            </w:numPr>
+                                                            <w:spacing w:line="240" w:lineRule="auto"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00C96AE3">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                            </w:rPr>
+                                                            <w:t>Innovative</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p w:rsidR="00380CB2" w:rsidRPr="00C96AE3" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="Akapitzlist"/>
+                                                            <w:numPr>
+                                                                <w:ilvl w:val="0"/>
+                                                                <w:numId w:val="2"/>
+                                                            </w:numPr>
+                                                            <w:spacing w:line="240" w:lineRule="auto"/>
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r w:rsidRPr="00C96AE3">
+                                                            <w:rPr>
+                                                                <w:sz w:val="24"/>
+                                                                <w:szCs w:val="24"/>
+                                                            </w:rPr>
+                                                            <w:t>Service-focused</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                </w:tc>
+                                            </w:tr>
+                                        </w:tbl>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Styl1"/>
+                                                <w:spacing w:before="240"/>
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Experience</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:b/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Web Developer</w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t xml:space="preserve"> - 09/2015 to 05/2019</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:b/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Luna Web Design</w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>, New York</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:numPr>
+                                                    <w:ilvl w:val="0"/>
+                                                    <w:numId w:val="1"/>
+                                                </w:numPr>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:numPr>
+                                                    <w:ilvl w:val="0"/>
+                                                    <w:numId w:val="1"/>
+                                                </w:numPr>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Develop project concepts and maintain optimal workflow.</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:numPr>
+                                                    <w:ilvl w:val="0"/>
+                                                    <w:numId w:val="1"/>
+                                                </w:numPr>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Work with senior developer to manage large, complex design projects for corporate clients.</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:numPr>
+                                                    <w:ilvl w:val="0"/>
+                                                    <w:numId w:val="1"/>
+                                                </w:numPr>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Complete detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code.</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:numPr>
+                                                    <w:ilvl w:val="0"/>
+                                                    <w:numId w:val="1"/>
+                                                </w:numPr>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Carry out quality assurance tests to discover errors and optimize usability.</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Styl1"/>
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Education</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t xml:space="preserve">Bachelor of Science: </w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:b/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t xml:space="preserve">Computer Information Systems </w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>- 2014</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:b/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Columbia University</w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00D11747">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>, NY</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="007F46DF" w:rsidRPr="00D11747" w:rsidRDefault="007F46DF" w:rsidP="007F46DF">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Styl1"/>
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r>
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Languages</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="007F46DF" w:rsidRPr="00380CB2" w:rsidRDefault="007F46DF" w:rsidP="007F46DF">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00380CB2">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Spanish – C2</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="007F46DF" w:rsidRPr="007F46DF" w:rsidRDefault="007F46DF" w:rsidP="007F46DF">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00380CB2">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Chinese – A1</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00D11747" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Styl1"/>
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00C62F7C">
+                                                <w:rPr>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Certifications</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00C62F7C" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00C62F7C">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t xml:space="preserve">PHP Framework (certificate): </w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00C62F7C">
+                                                <w:rPr>
+                                                    <w:b/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>Zend, Codeigniter, Symfony</w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00C62F7C">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>.</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="00C62F7C" w:rsidRDefault="00380CB2" w:rsidP="00380CB2">
+                                            <w:pPr>
+                                                <w:pStyle w:val="Bezodstpw"/>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r w:rsidRPr="00C62F7C">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t xml:space="preserve">Programming Languages: </w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00C62F7C">
+                                                <w:rPr>
+                                                    <w:b/>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>JavaScript, HTML5, PHP OOP, CSS, SQL, MySQL</w:t>
+                                            </w:r>
+                                            <w:r w:rsidRPr="00C62F7C">
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                                <w:t>.</w:t>
+                                            </w:r>
+                                        </w:p>
+                                        <w:p w:rsidR="00380CB2" w:rsidRPr="0080565E" w:rsidRDefault="00380CB2">
+                                            <w:pPr>
+                                                <w:rPr>
+                                                    <w:sz w:val="24"/>
+                                                    <w:szCs w:val="24"/>
+                                                    <w:lang w:val="en-US"/>
+                                                </w:rPr>
+                                            </w:pPr>
+                                        </w:p>
+                                    </w:txbxContent>
+                                </v:textbox>
+                                <w10:wrap type="square"/>
+                            </v:shape>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
             </w:r>
         </w:p>
-        <w:p w14:paraId="51F15365" w14:textId="58CE27CE" w:rsidR="00B27E34" w:rsidRDefault="00B27E34" w:rsidP="00B27E34">
-            <w:pPr>
-                <w:pStyle w:val="Subtitle"/>
-            </w:pPr>
-            <w:r>
-                <w:t>By Author</w:t>
-            </w:r>
-        </w:p>
-        <w:p w14:paraId="7E33C7AE" w14:textId="77B9AA2B" w:rsidR="00B27E34" w:rsidRDefault="00B27E34" w:rsidP="00B27E34">
-            <w:pPr>
-                <w:pStyle w:val="Heading1"/>
-            </w:pPr>
-            <w:r>
-                <w:t>Heading 1</w:t>
-            </w:r>
-        </w:p>
-        <w:p w14:paraId="3CF4BB48" w14:textId="3211402A" w:rsidR="00B27E34" w:rsidRPr="00B27E34" w:rsidRDefault="00B27E34" w:rsidP="00B27E34">
-            <w:r>
-                <w:t>Text.</w:t>
-            </w:r>
-        </w:p>
-        <w:sectPr w:rsidR="00B27E34" w:rsidRPr="00B27E34">
+        <w:sectPr w:rsidR="00D92A28" w:rsidSect="00FB1B1C">
             <w:pgSz w:w="11906" w:h="16838"/>
-            <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0"/>
+            <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="708" w:footer="708" w:gutter="0"/>
             <w:cols w:space="708"/>
             <w:docGrid w:linePitch="360"/>
         </w:sectPr>
